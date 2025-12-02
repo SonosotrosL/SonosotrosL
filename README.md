@@ -7,10 +7,6 @@
     <a href="mailto:riquelmoavelar@gmail.com" target="_blank" rel="noreferrer noopener"><img align="center" alt="python" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <br/>
-<div>
-  <img height="180cm" width="430cm" alt="Riquelmo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RiquelmoFerreira&show_icons=true&theme=radical" /><br/>
-  <img height="180cm" width="430cm" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmoFerreira&layout=compact&langs_count=16&theme=radical"/>
-  </div>  
   
   <div style="display: inline_block"><br/>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
