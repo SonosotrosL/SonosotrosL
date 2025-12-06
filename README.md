@@ -2,9 +2,9 @@
 ### Olá! Sou Antônio Paiva 👋
 <div style="display: inline_block"><br/>
     <a href="https://www.linkedin.com/in/antoniogamapaiva00/" target="_blank" rel="noreferrer noopener"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://riquelmoferreira.github.io/linktree_powerbi/" target="_blank" rel="noreferrer noopener"><img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+    <a href="" target="_blank" rel="noreferrer noopener"><img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
     <a href="https://www.kaggle.com/riquelmodf" target="_blank" rel="noreferrer noopener"><img align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="mailto:riquelmoavelar@gmail.com" target="_blank" rel="noreferrer noopener"><img align="center" alt="python" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:enantoniogamapaiva@gmail.com" target="_blank" rel="noreferrer noopener"><img align="center" alt="python" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <br/>
   
